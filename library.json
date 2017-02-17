@@ -1,0 +1,13 @@
+{
+    "name": "Arduino-EventManager",
+    "description": "EventManager is a single C++ class that provides an event handling system for Arduino",
+    "keywords": "event system eventmanager arduino listen"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/igormiktor/arduino-EventManager",
+    },
+    "export": {
+        "include": "EventManager"
+    },
+    "platforms": "atmelavr"
+}
